@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "STARR FRAMEWORK.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "STARR FRAMEWORK"
             }
           }
         ]
@@ -31,32 +31,13 @@
             "id": "e5b5233eec6530af",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "all-this.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "all-this"
-            }
-          },
-          {
-            "id": "9cf33e695f665c87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "we.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "we"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -199,8 +180,24 @@
   },
   "active": "ed5b7814877dcaeb",
   "lastOpenFiles": [
-    "all-this.md",
+    "Questions.md",
+    "Notes on style guides.md",
+    "General.md",
+    "Chris' Shortcuts.md",
+    "images/Pasted image 20250107120256.png",
+    "images/Pasted image 20250107120230.png",
+    "images/Pasted image 20250107120205.png",
+    "images/Pasted image 20250107120130.png",
+    "images/Pasted image 20250107120117.png",
+    "images/Pasted image 20250107120048.png",
+    "images/Pasted image 20250107120022.png",
+    "images/Pasted image 20250107120005.png",
+    "images/Pasted image 20250107115953.png",
+    "images/Pasted image 20250107115916.png",
+    "images",
+    "STARR FRAMEWORK.md",
     "Test.md",
+    "all-this.md",
     "we.md"
   ]
 }
