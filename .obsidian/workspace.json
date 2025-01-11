@@ -4,9 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "78303339d1c6fdd3",
+        "id": "06187b274fa51e23",
         "type": "tabs",
         "children": [
+          {
+            "id": "91ca06c08c652367",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
           {
             "id": "3df6a3220977d6b7",
             "type": "leaf",
@@ -21,7 +31,8 @@
               "title": "General"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -165,6 +176,8 @@
   },
   "active": "3df6a3220977d6b7",
   "lastOpenFiles": [
+    "Pasted image 20250110124017.png",
+    "Pasted image 20250110102652.png",
     "BlackJack.md",
     "Untitled 1.md",
     "STARR FRAMEWORK.md",
@@ -189,7 +202,6 @@
     "images/Pasted image 20250107120048.png",
     "images/Pasted image 20250107120022.png",
     "images/Pasted image 20250107120005.png",
-    "images/Pasted image 20250107115953.png",
     "images",
     "Test.md",
     "all-this.md",
