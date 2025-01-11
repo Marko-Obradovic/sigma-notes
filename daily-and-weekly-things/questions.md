@@ -1,3 +1,6 @@
+What day in the week will 1-1 be
+
+
 Prettier vs autopep8 - that was recommended in the pre-course from what i remember
 
 

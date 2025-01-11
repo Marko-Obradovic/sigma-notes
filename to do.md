@@ -1,1 +1,0 @@
-store all info on here that i need from sigmalabs as you go - make a time during the day you do this.
