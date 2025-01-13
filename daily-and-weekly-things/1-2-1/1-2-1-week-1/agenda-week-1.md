@@ -21,7 +21,7 @@ Feedback on your performance this week
 - 
 
 Feedback for Sigma Labs
-- A little more time for the workshop
+- A little more time for the workshop - I don't feel like I have enough time to cover the reading material given
 - A discussion about it afterwards so we know we were in the right direction.
 
 Our objective(s) for the week ahead (documented in your [objectives]) 

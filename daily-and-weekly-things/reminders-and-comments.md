@@ -7,5 +7,3 @@
 - InterviewAI password doesn't work
 
 - I will have an appointment tomorrow at 8:30, might be late tomorrow.
-
-- I don't feel like I have enough time to read through all the material
