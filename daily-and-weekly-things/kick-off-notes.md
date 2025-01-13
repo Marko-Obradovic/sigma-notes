@@ -9,7 +9,7 @@ Extra:
 
 
 Reminders for others:
-[[reminders-for-others]]
+[[reminders-and-comments]]
 
 
 Link-back:

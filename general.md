@@ -74,8 +74,7 @@ cracking the coding interview
 for performance and algorithms:
 [https://www.crackingthecodinginterview.com/](https://www.crackingthecodinginterview.com/)
 
-automatic notes with ai:
-[https://www.limitless.ai/](https://www.limitless.ai/)
+
 
 chris' exhibitions tool:
 https://exhibitions.london/

@@ -1,1 +1,5 @@
 - add Rodrigo Montemayor and Josh Allen on linkedin
+- look into problem decomposition
+- finish powerpoint
+- finish this course: https://www.coursera.org/learn/unix/supplement/8IyZf/introduction
+- 
