@@ -82,3 +82,18 @@ https://exhibitions.london/
 How to solve any problem:
 (location of svg in images)
 ![[Pasted image 20250111065440.png]]
+
+
+positional/named arguments - FIND MORE ABOUT THIS AND THE FLIP SIDE
+
+syntaxErrors, TypeErrors, etc -> Crashed
+	These are good, you can see what's happened and it doesn't let you move on until you've fixed them.
+
+Logical Error -> Did something wrong
+	
+LOOK INTO ERRORS MORE
+
+
+look into graceful degredation
+
+today we learned oop and error handling
