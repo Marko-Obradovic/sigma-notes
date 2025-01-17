@@ -97,3 +97,93 @@ LOOK INTO ERRORS MORE
 look into graceful degredation
 
 today we learned oop and error handling
+
+
+look into Encapsulation vs abstraction 
+
+
+
+
+NEW:
+What I'm looking for in my career now is an opportunity to deepen my technical skills in data engineering and contribute to an impactful project in a highly collaborative environment. 
+I'm extremely eager to work in an environment where I can learn from experts in their field, work with complex datasets and help solve solutions to real world problems through code. I admire Apple's strong focus on innovating, constantly building and improving the current data infrastructure; this perfectly aligns with my recent experiences and my passion for optimising systems and creating scalable solutions.
+I am particularly inspired by Apple's cross-functional collaboration; you can see this in all of Apple's products and the way they integrate seamlessly. Working in such a dynamic and collaborative environment is a dream of mine; somewhere that foster innovation and gets the best out of everyone on the team.
+
+
+- Their company mission and values
+	a story of growth, purpose, and transformation, emphasising Virgin Media Business as a key player in enabling digital innovation and connectivity across the UK and beyond.
+		
+		- Supporting Education through initiatives like Generation Tech
+		- showing a big focus on sustainability
+		- 
+
+	- meaningful collaboration
+		- key partnerships with EE, Three, Sky?,  and the UK government reflect its ability to work collaboratively to create impactful solutions
+
+
+the company demonstrates a commitment to innovation, providing state of the art infrastructure and focusing on what matters. I was always inspired by when people come together and use technology to create high quality solutions to big issues.
+- big red internet 2010 - the first dedicated leased line service that gives people all the bandwidth they need, without restrictions or extra charges
+- Often extending and improving Public Service Network security
+- Investing £3bn into enhancing broadband conectivity through Project Lightning
+
+Virgin does this in ways which is both sustainable and empowers others, which shows that they put a lot of thought into every step they take.
+	• Fostering decent work and economic growth
+		- Create a supportive, inclusive workplace
+		- Prioritise wellbeing and mental health
+		- Empowers all colleagues, including unpaid carers.  
+	• Promote ways to make more sustainable choices. 
+		- Reusing or Recycling all returned customer equipment
+		- Zero single use packaging and all packaging to be 100% recyclable.  
+	• Encourage community participation and building safe, inclusive and accessible community spaces across UK neighbourhoods.
+
+I especially hold a lot of respect for Virgin's 2014 education initiative, Generation Tech; educating kids in technology is incredibly important for all our futures, and it's great to see a large-scale company go out of its way to do this.
+
+
+
+overthink problems before starting
+try to solve multiple problems at once, thinking its all one problem
+
+trying to solve by:
+- putting an emphasis on breaking down problems into their most relevant components
+- working chronologically
+- not worrying about what the next steps are until finishing the one I'm on
+
+so far I have noticed:
+- I'm working through problems more methodically
+- getting faster
+- seeing how everything fits in the bigger picture
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

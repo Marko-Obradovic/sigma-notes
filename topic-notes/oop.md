@@ -40,3 +40,24 @@ once these objects have been created, their properties can have be assigned valu
 
 ...finish later from [this video](https://www.youtube.com/watch?v=m_MQYyJpIjg&t=541s)
 
+
+in objects, you want a getter and setter:
+	def get_name that returns the self.name
+	set set_name that changes the name
+	- basically make a nice interface
+
+look into private, protected and public variables
+	Private Variable: Force to not used
+	Protected Variables: Suggested not used
+	Public Variable: Go for it
+
+
+
+look into:
+- regular methods, class methods and static methods
+- abstract classes and abstract methods
+
+
+look into: 
+- State diagram
+- composition/association in oop

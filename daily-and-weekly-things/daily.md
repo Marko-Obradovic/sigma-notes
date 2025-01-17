@@ -36,3 +36,10 @@ __After-hours__
 - Update the current week's [1-2-1-agenda]
 - Run through presentation once
 - PHP work for an hour - look at the [PHP Notes](https://coda.io/d/Trainees_dryBdidTdcn/C16_suoVyCfs#_lu4FXuFz) and [Interview Training](https://coda.io/d/Trainees_dryBdidTdcn/Interview-Training_suXiawIu#_luxbblsd) 
+	- prepare for upcoming meetings:
+		  - review agendas
+		  - pre-read material
+		  - reach out for clarification
+- clean mail
+
+**End of the week:**

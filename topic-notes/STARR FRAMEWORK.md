@@ -1,9 +1,10 @@
 How to answer questions given by interviewers
 
-Situation - what was the situation you were in
-Task - what was the task that had to be done
-Action - what action or steps did you take
-Result -  what was the RESULT of the situation and your actions? - Should always be positive
+Situation: Describe the context or background of the situation you were in.
+Task: Explain the task or challenge you faced.
+Action: Detail the specific actions you took to address the task.
+Result: Share the outcome or result of your actions, emphasising success and impact.
+Reflection: Reflect on what you learned from the experience and how it helped you grow.
 
 
 
