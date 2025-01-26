@@ -30,7 +30,7 @@ __Wrap-up__
 
 __After-hours__
 - Write down everything you've learned in [[things-learned]]
-- Consolidate [[general]] and distribute information to relevant files.
+- Consolidate [[notepad]] and distribute information to relevant files.
 - update [[reminders-and-comments]]
 - Check [[deadlines]]
 - Update the current week's [1-2-1-agenda]
@@ -41,5 +41,6 @@ __After-hours__
 		  - pre-read material
 		  - reach out for clarification
 - clean mail
-
+- update [problem-summaries]
+- update [objectives]
 **End of the week:**

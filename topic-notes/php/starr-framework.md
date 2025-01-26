@@ -38,3 +38,5 @@ answers to learn:
 16. How would you feel about relocating?
 17. Can you describe a time when you achieved excellence at work?
 18. What's the best customer service you have ever witnessed?
+
+

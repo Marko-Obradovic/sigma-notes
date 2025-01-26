@@ -1,15 +1,13 @@
-What's happening today:
-- 
 
-Submissions needed:
-- 
+Content Overview
 
-Extra:
-- 
+Deadlines
 
+Slack Notices
 
-Reminders for others:
-[[reminders-and-comments]]
+Other
+
+Link to workshop task
 
 
 Link-back:

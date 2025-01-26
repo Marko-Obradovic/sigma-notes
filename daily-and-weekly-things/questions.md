@@ -1,3 +1,1 @@
-- Ask quad leads how their teams are doing 
-- Ask how they go about preparing for the introductions - Joseph literally 
-
+- How do we implement OOP from here if everything is structured as procedural 

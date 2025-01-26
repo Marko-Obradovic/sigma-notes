@@ -158,32 +158,28 @@ so far I have noticed:
 
 
 
+What are the differences between consoles, terminals, CLI, and shells?
+	- Console: Was referred to a physical device that's used to directly interact with old mainframes - now it refers to theterminal environment that allows you to interact directly with the system.
+	- terminal: The software that allows you to run commands for your shell to interpret and return information. The terminal is what shows you the returns.
+	- CLI (Command Line Interface): A text-based interface for interacting with a system.
+	- Shell: A program that runs in the terminal. The shell is what interprets commands you enter into the terminal. It will parse the command, execute it and display the output via the terminal.
+	  Examples: Bash, Zsh, PowerShell
+	
+What do the terms 'flag', 'option' and 'argument' mean when discussing command-line tools?
+	Flag: type of option that doesn't take a value. Only acts as a boolean switch. They are short and consist of single letters, prefixed with a dash. E.g -v stands for verbose, activating detailed output
+	Option: Argument that modifies the behavior of the command. Can be followed by a value or flag. Options are generally prefixed with one or more dashes such as -h or --help.
+	Argument: Values that follow the command and options. Things like files, directories, URLs etc.
 
 
+What is the Python library argparse used for?
+	argparse is used for creating command-line interfaces - it allows you to define what arguments your program expects, parse those arguments, and then use them within the program. With this, you can define options, flags, and positional arguments for your command-line tool. It also handles help messages and error checking.
 
+What curl command would you use to access the data at this link and store it in a file called TSCDJMH.txt?
+curl -o TSCDJMH.txt https://www.gutenberg.org/files/43/43-0.txt
 
+How many words, lines, and characters are there in TSCDJMH.txt?
+2556 lines, 25647 words, 143715 characters
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+How many times does the word 'scientific' appear in TSCDJMH.txt
+6 times
 
