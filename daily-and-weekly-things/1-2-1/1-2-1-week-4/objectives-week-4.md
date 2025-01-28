@@ -3,6 +3,9 @@ This document contains your objectives for the Week. All Objectives should follo
 
 Objective 01:
 
+
+Objective 01:
+
 - [ ] Specific:
 - [ ] Measurable:
 - [ ] Achievable:

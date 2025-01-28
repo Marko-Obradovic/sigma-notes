@@ -4,21 +4,19 @@ This is where I'm going to have my interview script:
 
 ### Tell me about your background.
 ```
-So my love for technology comes from my childhood - I spent a lot of time on computers and so I got a lot of exposure from that, but during my secondary education, I actually started to develop an interest in music - and at first it was drumming and playing in bands
+So I've always loved technology - as a kid I spent a lot of time on computers and so I got a lot of exposure from that, and during my secondary education, I actually started to develop an interest in music production.
 
-but the more I learned about music the more I actually found that i enjoyed producing music more than performing it
-
-i really loved learning about the hardware and the software, the ways in which they interacted and how we can leverage them to achieve the best results for the musicians
+i really loved learning about the technology, came together and how we could use them to create a beautiful sounding product for the musicians
 
 and so I carried on with audio engineering all the way up to university where we got a lot of in-depth exposure to the technology behind everything
 
-and actually one of the more interesting modules i did at university was looking at arduinos
+We looked at how to operate studios to record sessions, how microphones worked, mixing and mastering
 
-and we began to build little programs on them which would allow us to use them as MIDI controllers - kind of the same way you would use a keyboard to play notes on your computer
+and actually one of the more impactful modules i did at university was building MIDI controllers with arduinos - so a little keyboard we could use to play notes on the computer 
 
 and this really got me really interested, because I got to see what was going on under the hood - and so over time, I started tinkering with python to see what else could be done and so that I could learn more
 
-But i realised that i was becoming more interested in the technology than i was in the music - i started to become interested in the problem solving aspects - the algorithms, the data, etc - I eventually completed a course on Udacity in Python and it was just so much fun to do.
+But i realised that i was becoming more interested in the technology than i was in the music - i started to become interested in the problem solving aspects - the algorithms, etc - I eventually completed a course on Udacity in Python and it was just so much fun to do.
 
 and thats what started leading me down the path of pursuing technology not for the sake music but to learn to use code to solve problems
 
@@ -35,27 +33,64 @@ In the next 5 years, I see myself growing into a position where I can start buil
 As I think about the future, I’m excited to learn from experienced professionals and expand my network, gaining insights from the best in the field. I love learning from others, whether it’s through mentoring, collaborating, or observing their approach to challenges. The opportunity to work alongside talented colleagues is something I’m eager to pursue, and I believe that being part of this company will offer the kind of growth, collaboration, and innovation I’m looking for.
 ```
 
-### How do you communicate effectively at work? (TO DO)
+### How do you communicate effectively at work?
 ```
+I feel like effective communication is about clarity, active listening and being proactive.
+
+
+**Situation**: And so for example, when I was a live sound engineer at my university after I finished the course, I was asked to handle the live sound engineering for students' final projects - there was an audience in the room as well as 5 teachers marking the performances - It was an extremely high pressure situation for both the performers and I - although the aim is to always have great sound, this in particular had very little room for error.
+ 
+**Task**:
+And so my main task was to ensure that each performance had the highest possible quality of sound.
+
+**Action**: So my first course of action was contacting all the performers and organising meetings to understand their specific needs—whether it was mic setups, lighting, or specific effects. 
+And then on the day, arguably the most important part was during sound checks before the audience came in - you need constant clear communication with the performers to make sure when they perform there are no issues and it sounds professional - the last thing we want is to cause them to be thrown off because they cant hear the music.
+And we had to work quickly to make sure all the bands were sound checked before the audience came in so we couldn't really afford to waste any time.
+
+**Result**: And so because of our conversations beforehand and quick, clear sound checks, performances went smoothly
+
+We had clear and balanced sound, everyone had a great time and everyone was laser focused on the performance.
+
+In the end, the instructors and performers were really happy with the sound, and the events ran on time with genuinely no disruptions from technical issues since we were prepared.
+
+**Reflection**: This job more than anything taught me that effective communication in any setting is about being proactive and responsive. Building strong communication with people you're working with is extremely important to make sure everything goes smoothly.
 ```
-Introduction: Define what effective communication means to you.
-Approach: Describe your approach (e.g., active listening, being clear and concise).
-Example: Give an example where this approach led to successful communication in a project or situation.
-Conclusion: Conclude with how your communication skills contribute to team success.
-
-To me, effective communication is about ensuring that ideas, goals, and feedback are conveyed clearly and efficiently, so everyone involved has a shared understanding.
-
-My approach to effective communication is centered on active listening, clarity, and structure. I aim to tailor my message to the audience, ensuring I address their needs and priorities. A tool that I often use to enhance communication is the _hypothesis tree_ and the _MECE_ (Mutually Exclusive, Collectively Exhaustive) framework. The hypothesis tree helps me break down complex ideas into logical components, while MECE ensures that my communication is both complete and avoids overlap. Together, these tools allow me to structure my messages in a way that is logical, clear, and actionable.
-
-**Example**:  
-In a recent project, our team was tasked with diagnosing a drop in customer satisfaction metrics. I presented potential reasons for the decline, breaking them down into manageable components. Through this we were able to systematically rule out overlaps and address each factor thoroughly. This structured approach not only made the problem easier to understand but also allowed the team to align quickly on next steps. As a result, we identified and resolved the root cause two weeks ahead of schedule.
-
-**Conclusion**:  
-By combining active listening, clarity, and structured frameworks like the hypothesis tree and MECE, I contribute to my team’s success by ensuring our communication is focused, efficient, and aligned. This approach not only improves collaboration but also drives better decision-making and outcomes.
 
 
 ### What makes a team successful, and how do you contribute?
-I feel like a successful team
+```
+I feel like any team needs clear communication, and proactiveness - everyone needs to be on the same page, and willing to put in the work.
+
+And so for example in a team I worked with back in university, 
+
+**Situation**:  
+We were assigned to record 5 songs for a rock band in a professional studio. Normally, a session like this would take two days, but because of booking restrictions, we only had 6 hours to complete everything, from setup to final takes.
+
+**Task**:  
+My team’s goal was to efficiently capture high-quality recordings in this limited timeframe.
+
+**Action**:
+And so first we discussed with the band what style of sound they wanted for the five songs, which gave us a clear direction and reference songs to guide our setup.
+
+But a big challenge was the drum tuning, which will takes up to three hours if you want it to sound good.
+
+And so we had an idea - we could see who was booking, so we booked our slot after someone who wasn't using the drums - that way we could come in early and spend the extra hours treating the drums.
+
+So from here we had three specific things to do:
+1. One person researched the gear we needed to fit the brief, like microphones and amps
+2. I created a studio plan, so that's the mic placements and how everything's connected
+3. The third person prepared the session on the software we were using to capture the sound to avoid having to do that during the session.
+
+And so when the day came - after I tuned the drums and we all set up the microphones together, we split off to our separate roles:
+I set levels and handled the logic on the mixing board, one of us adjusted microphones while we were testing the sound, and the other directed all the musicians so we were all constantly on the same page.
+
+**Result**:  
+And despite the tight timeframe, we successfully recorded all 5 songs. The tracks turned out crystal clear and balanced, and we had time to make minor tweaks during the session. Best part was the band was in love with the final result.
+
+**Reflection**:  
+This project really reinforced to me how crucial preparation, time management, and effective communication are in a fast-paced environment. It really goes to show that working hard to prepare really helps to ensure quality doesn't suffer when there are time constraints.
+```
+
 ### What’s your process for tackling difficult problems?
 ```
 I tend to tackle difficult problems using a five-step process
@@ -138,43 +173,45 @@ While this attention to detail can be useful, it sometimes affects my ability to
 And so just to give you an example, during my training at Sigma Labs, we were tasked with developing a movie rental system using Object-Oriented Programming, something I was still getting comfortable with.
 
 **Task:**  
-Unfortunately I found myself spending a lot more time on my code than I had anticipated, trying to perfect the details before moving on.
+Unfortunately I found myself spending a lot more time on each individual task than I should have, trying to perfect the details before moving on.
 
 **Action:**  
-I became so focused on refining my work—tweaking individual methods and trying to learn every little thing —that I ended up falling behind schedule. And so when I realised this was the case, to make sure I would stay on track, I consistently asked for feedback from my instructors when I got stuck; but sometimes it takes me some time to realise that this is happening.
+I became so focused on refining my work and trying to learn every little thing —that I ended up falling behind schedule. And so when I realised this was the case, to make sure I would stay on track, I consistently asked for feedback from my instructors when I got stuck; but sometimes it takes me some time to realise that this is happening.
 
 **Result:**  
-The delay in completing my work not only impacted my progress on the task itself but it started affecting other things I had to be doing during the week such as working on other modules. This also meant that I couldn't spend a lot of time helping my peers with their troubleshooting which is definitely something I want to be putting time into so we all learn and grow together.
+The delay in completing my work not only impacted my progress on the task itself but it started affecting other things I had to be doing during the week such as working on the professional high performance module and studying up on material we were learning in class. This also meant that I couldn't spend a lot of time helping my peers with their troubleshooting which is definitely something I want to be putting time into so we all learn and grow together.
 
 **Reflection:**  
-From this, I learned that while attention to detail is important, it’s equally critical to manage my time effectively and stay focused on the bigger picture. I've been working to improving my time management, setting clear deadlines for myself, and making sure I leave time for my other responsibilities, and it's helping a lot - I'm getting more great work done in a shorter amount of time.
+From this, I learned that while attention to detail is important, it’s equally as important to manage time effectively and stay focused on the bigger picture.
+
+I've been working to improve my time management, setting clear deadlines for myself, and making sure I leave time for my other responsibilities, and it's helping a lot - I'm getting more great work done in a shorter amount of time.
 ```
 
 
 ### Tell me about your key strength.
-My key strength is definitely my work ethic. I feel like I will always put in the hard work to get things done well, and I'm always looking for opportunities to learn and improve.
+My key strength is definitely my work ethic. I love putting in the hard work to understand something and get things done well.
 ```
 And so definitely a good example of this is in my second year, I was gaining studio experience by helping final-year students record their final projects. For one session, unfortunately, because of a misunderstanding, the student booked a studio that wasnt suited for traditional recording, and I wasn’t actually trained on its use. Now normally, we’d re-book or find someone trained, but there were no available engineers and studio booking restrictions were in place
 
 ---
 
 **T (Task):**  
-Because this was such an important session for their degree, I needed to make sure the recording session went smoothly and the outcome was exactly what they needed.
+Because this was such an important session for their degree, I really wanted to help - I needed to understand how the room worked quickly, to make sure the session went smoothly and the end product sounded professional.
 
 ---
 
 **A (Action):**  
 
-My first course of action was just to read through the manual for the console and use the room during small gaps inbetween bookings to get some hands on practice. I actually ended up arranging a call with the lecturer that specialised in that equipment to just run me through the studio specifications and guide me on how to effectively operate the room for this kind of session; and so then I communicated everything with the student and we put together a session plan we could use.
+My first course of action was just to read through the manual for the console and use the room during small gaps inbetween bookings to get some hands on practice. I actually contacted a specialist in that room setup to just run me through the studio specifications and guide me on how to effectively operate the room for this kind of session; and so then I communicated everything with the student and we put together a session plan we could use.
 ---
 
 **R (Result):**  
-Now there were definitely challenges during the session, but I was able to troubleshoot technical issues quickly because I actually understood how the equipment interacted. And The result was excellent, they got a very high grade and the student was extremely happy with the result. In the end, the student actually became a regular client and I received a lot of direct messages from students asking to book in sessions with me which gave me tons of experience.
+Now there were definitely challenges during the session, but I was able to troubleshoot technical issues quickly that I wouldn't have been able to without putting time to learn it all. And The result was excellent, they got a very high grade and the student was extremely happy with the result. In the end, the student actually became a regular client.
 
 ---
 
 **R (Reflection):**  
-And I feel like I'm really glad I worked hard to understand the equipment, I learned how that studio works and I'm extremely happy with the creative solutions we put in place to meet the needs of the project. And I’m confident that I can bring this same level of dedication and problem-solving to future challenges in a professional setting.
+And I feel like I'm really glad I worked hard to understand the equipment, I learned how that studio works and that helped us not only record it but create a high quality project. And I feel like I can bring this same level of dedication and problem-solving to future challenges in a professional setting.
 ```
 
 STORY:
