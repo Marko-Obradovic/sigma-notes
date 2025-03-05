@@ -1,22 +1,35 @@
-1.
-We could be asking if the information we're trying to pull out of the data is relevant and useful to the current situation; we don't want to be spending time trying to assess data that doesn't align with the specific objectives or goals we are trying to achieve.
+1
+---
+Walmart's investment in data analytics and supply chain technology has significantly improved its operations and financial performance.
+
+They are introducing five new automated distribution centres to double inventory capacity and manage over 50% of their products by 2026. These centres use robotics to optimise store-specific pallet building, increasing efficiency and reducing costs.
+
+Walmart is also automating 400 pickup and delivery centres with AI, improving order fulfilment speed and accuracy. This has helped expand same-day delivery to 93% of U.S. households (up from 80% in 2023), reaching 12 million more homes.
+
+As a result, Walmart's annual sales reached $681 billion, with a $121 billion revenue increase over four years, demonstrating the significant impact of these advancements.
+
+2
+---
+1. Customer satisfaction
+Zalando could track the average customer ratings and weight up the positive/negative reviews to measure overall satisfaction with the shopping experience.
+
+2. Customer retention
+Customer retention would show them whether their customers enjoy the shopping experience and are coming back to make more purchases.
+
+3. Bounce rate
+The bounce rate would show the percentage of visitors leaving the website after viewing only one page. This would help assess if recent improvements to the website/service are helping or not.
+
+1. Conversion rate
+Conversion rate will show them the percentage of visitors that make a purchase. It's extremely important since it shows them which changes to the website/service most effectively turns visitors into customers.
 
 
-2.
-looking at the post-redesign metrics, there's a trend: each week, on average, the user count is dropping by about 1,250, purchases are decreasing by 150, the average purchasing value is decreasing by £2 and the bounce rate is increasing by 1.6%. These trends suggest that the redesign may not have achieved its goal of improving user experience.
+3
+---
 
-The main issue here seems to be conversion - although a decrease in user count could indicate a lower interest in the brand, if we think about the Pareto Principle (80% of purchases are most likely coming from 20% of users), if in the end we had the same amount of purchases with a lower user count, user count would not be a problem
+Although Team Poseidon gave effective use cases for the system, they mainly focused on the system's practical applications rather than the commercial value.
 
-And so because purchases are disproportionately dropping in contrast to user count, it may be worth considering the bounce rate at this stage, which seems to be affecting the likeliness that someone landing on the website will buy something, decreasing purchases and lowering conversion.
+They mention that it could be used for education and individually for people living in areas that are prone to earthquakes, but they could have focused on monetisation options or models, such as subscriptions. For example, they could have a personal subscription and a business subscription for schools or other businesses that want to utilise it in different ways.
 
-The bounce rate has been evaluated as a site usability/user experience issue and so it seems that if it's not addressed, the bounce rate will keep increasing at least in the near future, lowering both the purchases made and user count.
+Since they position the system as an invaluable tool for industries that need earthquake data, such as property development, it could have also been beneficial to highlight how the system helps businesses save money by being better prepared for earthquakes.
 
-Eventually, the bounce rate may decrease when users that are used to the website layout become the majority. This decrease is not an indication of progress, because eventually when the user count and purchases made begin to stay stagnant, it would indicate that conversion has settled at a lower number, especially since there is no clear reason for the purchase amount nor the average purchasing value to increase.
-
-In the end, you may have a low bounce rate, but low purchases and user counts.
-
-3.
-1. Interpretation: What are the key variables or factors at play:
-	We can observe that the credit card transactions fail 87.5% of the time because the payment provider status is down each time it fails.
-2. Inference: What are the key variables or factors at play (continued):
-	
+By tying financial benefits to these features, they would make a stronger case to stakeholders about the project's commercial potential.

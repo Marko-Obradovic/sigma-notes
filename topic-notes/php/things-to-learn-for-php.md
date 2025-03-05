@@ -1,8 +1,0 @@
-- Smart Objectives
-- STARR Interview Responses
-- MECE
-- SCQA
-- 3 Cs of Communication
-- WANA Meetings
-- LADA - Framework for Receiving Feedback
-- Eisenhower's Matrix

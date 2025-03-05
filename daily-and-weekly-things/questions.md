@@ -1,1 +1,0 @@
-- How do we implement OOP from here if everything is structured as procedural 

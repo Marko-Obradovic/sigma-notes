@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "234d9bfa51860507",
+        "id": "ef8fae02330a9a0e",
         "type": "tabs",
         "children": [
           {
-            "id": "0e13d4daf21ee8aa",
+            "id": "14ef3064c7404f44",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "temp.md",
-                "mode": "source",
-                "source": false
+                "file": "cloud.canvas",
+                "viewState": {
+                  "x": 10056.359279953998,
+                  "y": -8989.406921928121,
+                  "zoom": -0.5999999999999999
+                }
               },
-              "icon": "lucide-file",
-              "title": "temp"
+              "icon": "lucide-layout-dashboard",
+              "title": "cloud"
             }
           }
         ]
@@ -40,7 +43,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 291.5
   },
   "right": {
     "id": "6824fe92b28fb56a",
@@ -162,53 +166,57 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0e13d4daf21ee8aa",
+  "active": "14ef3064c7404f44",
   "lastOpenFiles": [
-    "topic-notes/php/script.md",
-    "topic-notes/software-engineering/networking/flask-skeleton.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-3/objectives-week-3.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-3/agenda-week-3.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-3/notes-week-3.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-4/objectives-week-4.md",
-    "topic-notes/software-engineering/networking/argparse.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-4/agenda-week-4.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-x(template)/agenda-week-x.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-x(template)/objectives-week-x.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-4/notes-week-4.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-2/objectives-week-2.md",
-    "topic-notes/software-engineering/networking/api-basics.md",
-    "topic-notes/php/smart-objectives.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-2/notes-week-2.md",
-    "images/Pasted image 20250121072427.png",
-    "Untitled.md",
+    "course-summary.canvas",
+    "cloud.canvas",
+    "interview.canvas",
     "temp.md",
-    "daily-and-weekly-things/1-2-1/1-2-1-week-2/agenda-week-2.md",
-    "topic-notes/software-engineering/networking/requests-and-json-example.md",
-    "daily-and-weekly-things/things-learned.md",
-    "daily-and-weekly-things/daily.md",
-    "problem-summaries/tuesday/chat-gpt-advice.md",
-    "topic-notes/software-engineering/networking/networking-overview.md",
-    "topic-notes/software-engineering/networking/http-and-https-basics.md",
+    "deadlines.md",
+    "weekend-to-do.md",
+    "summaries.md",
+    "problem-log.md",
+    "notepad.md",
+    "daily.md",
+    "topic-notes/php/things-to-learn-for-php.md",
+    "topic-notes/php/starr-framework.md",
+    "topic-notes/php/smart-objectives.md",
+    "topic-notes/php/script.md",
+    "topic-notes/php/mece.md",
+    "topic-notes/php/interviewing.md",
+    "topic-notes/php/eisenhower's-matrix.md",
+    "mitsui/why-i-want-to-work-at-mitsui.md",
+    "mitsui/mitsui-research.md",
+    "mitsui/mitsui-questions.md",
+    "mitsui/mitsui-interview-prep.md",
+    "mitsui/how-mitsui-works.md",
+    "mitsui/commodities-research.md",
+    "images/joins_cheatsheet.pdf",
+    "images/Pasted image 20250107115732.png",
+    "images/Pasted image 20250107115845.png",
+    "images/Pasted image 20250107115901.png",
+    "images/Pasted image 20250107115916.png",
+    "images/Pasted image 20250107115953.png",
     "general/resources.md",
-    "topic-notes/software-engineering/networking/json-basics.md",
+    "Untitled.canvas",
+    "cloud-mindmap-images/packet-switching-example.png",
+    "cloud-mindmap-images",
+    "Pasted image 20250301163440.png",
+    "Pasted image 20250302100410.png",
+    "daily-and-weekly-things/to-do.md",
+    "daily-and-weekly-things/reminders-and-comments.md",
+    "daily-and-weekly-things/questions.md",
+    "daily-and-weekly-things/kick-off-notes.md",
+    "Untitled 1.canvas",
+    "images/Pasted image 20250205065053.png",
+    "images/Pasted image 20250205064643.png",
+    "mitsui",
     "problem-summaries/tuesday",
-    "Untitled",
-    "images/Pasted image 20250120175215.png",
-    "images/Pasted image 20250120174639.png",
     "topic-notes/software-engineering/networking",
-    "images/How to solve any problem.svg",
     "problem-summaries/monday",
     "problem-summaries",
     "daily-and-weekly-things/objectives",
     "general",
-    "topic-notes/software-engineering",
-    "topic-notes/php",
-    "topic-notes/software-engineering/how-to-solve-any-problem",
-    "images/Pasted image 20250111065440.png",
-    "images/Pasted image 20250111064228.png",
-    "images/Pasted image 20250111064127.png",
-    "images/Pasted image 20250110124017.png",
-    "images/Pasted image 20250110102652.png",
-    "images/Pasted image 20250107140008.png"
+    "topic-notes/software-engineering"
   ]
 }
