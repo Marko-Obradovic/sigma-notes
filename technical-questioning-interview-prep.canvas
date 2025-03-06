@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"78a9dfbbff164f2b","type":"group","x":-520,"y":-340,"width":600,"height":620,"color":"1","label":"1. Tell me about a project you've built"},
+		{"id":"c623fe85b8435cce","type":"group","x":160,"y":-340,"width":600,"height":520,"color":"#2e46ff","label":"2. Questions about the project"},
+		{"id":"7611fd6fa4018b59","type":"group","x":840,"y":-340,"width":600,"height":520,"color":"#2f9231","label":"3. Questions about the tech"},
+		{"id":"e5d1996b79aee981","type":"text","text":"Length: 5 minutes\n\nAims:\n- Give the interviewer topics to talk about\n- Prove to the interviewer that you built this project\n- Choose the technology you'll want to talk about\n- Come across as a professional\n\nAdvice:\n- Start with the **WHY**. What is the business problem you were trying to solve?\n- Then move onto a high level technical overview\n- Then go deeper into the tech (keep it high level though - think about as if you're explaining an architecture diagram)\n- You want to talk about the problems you solved rather than the actual code you wrote\n- Don't be afraid to talk deep technical words (key modules, technologies or techniques used) - just don't go TOO deep into these things\n- Aim to use all the proper technical terms ALWAYS.","x":-500,"y":-320,"width":560,"height":572},
+		{"id":"018977d558e1a047","type":"text","text":"Length: 5-10 minutes\n\nWhat is it?\n- The interviewer asks you a few questions about the project\n- For example:\n\t- What was the hardest part of this project?\n\t- Why did you choose XYZ tech\n\t- etc\n\nAims:\n- Prove that you built the project yourself\n- Dig deeper into the tech skills\n\nAdvice:\n- The correct answer for \"Why did you choose...\" is **NEVER** \"I was told to\" - You **MUST** have a reason","x":180,"y":-320,"width":560,"height":479},
+		{"id":"114d96370d576815","type":"text","text":"Length: The rest of the interview\n\nWhat is it?\n- The interviewer asks you questions about the tech you chose in the project\n- They can ask you any question to do with the tech\n\nAims:\n- Appear as a technical professional who really understands their field\n\nAdvice:\n- Framing in terms of trade offs can be a good way to answer a lot of questions\n- If you don't know, don't try to bluff it. Be honest but try to give an answer.","x":860,"y":-320,"width":560,"height":472},
+		{"id":"f94c0b7ba126677c","x":116,"y":574,"width":524,"height":66,"type":"text","text":"Ask Chris for a mock of the Technical Questioning Interview"}
+	],
+	"edges":[]
+}

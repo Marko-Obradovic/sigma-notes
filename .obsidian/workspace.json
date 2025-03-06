@@ -1,23 +1,23 @@
 {
   "main": {
-    "id": "39cc97a0cebbce4b",
+    "id": "62ebc11179f45cf7",
     "type": "split",
     "children": [
       {
-        "id": "ef8fae02330a9a0e",
+        "id": "43d1985e108d1721",
         "type": "tabs",
         "children": [
           {
-            "id": "14ef3064c7404f44",
+            "id": "8184d39fa632aa2a",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "cloud.canvas",
                 "viewState": {
-                  "x": 8943.40790588396,
-                  "y": -9719.944850930262,
-                  "zoom": -1.3333333333333328
+                  "x": 3967.0854881686087,
+                  "y": -9200.987467727158,
+                  "zoom": -2.8000000000000003
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -30,15 +30,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "94fdf120e7ff9d4d",
+    "id": "c9210df07780d7ac",
     "type": "split",
     "children": [
       {
-        "id": "20a5149bc48dbed6",
+        "id": "4c4a70aca9d21e31",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c203164ec4f7a7",
+            "id": "514644db60e3abf7",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -51,7 +51,7 @@
             }
           },
           {
-            "id": "6c0878bb6215abbc",
+            "id": "0689d9fa50573f17",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -68,7 +68,7 @@
             }
           },
           {
-            "id": "a1cb348f616f0841",
+            "id": "ca21e0bb7b22eca6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,23 +81,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291.5
+    "width": 300
   },
   "right": {
-    "id": "6824fe92b28fb56a",
+    "id": "6f7ce0f2006b7dd0",
     "type": "split",
     "children": [
       {
-        "id": "d2237616df671350",
+        "id": "031ff6fc26d49601",
         "type": "tabs",
         "children": [
           {
-            "id": "5d304941775d1be8",
+            "id": "c48b0f664c4a1909",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,46 +106,49 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Test"
+              "title": "Backlinks"
             }
           },
           {
-            "id": "ffcb6e03d04d5a3b",
+            "id": "58558023526ea5e2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Test"
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "5abfc7035841ea2b",
+            "id": "c93e922b8b1baa68",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
             }
           },
           {
-            "id": "3e7f8a4f72e73bde",
+            "id": "20fd1d3bedc462c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test.md"
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Test"
+              "title": "Outline"
             }
           }
         ]
@@ -166,57 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "14ef3064c7404f44",
+  "active": "8184d39fa632aa2a",
   "lastOpenFiles": [
     "course-summary.canvas",
+    "technical-questioning-interview-prep.canvas",
     "cloud.canvas",
-    "interview.canvas",
     "temp.md",
-    "deadlines.md",
-    "weekend-to-do.md",
-    "summaries.md",
-    "problem-log.md",
-    "notepad.md",
-    "daily.md",
-    "topic-notes/php/things-to-learn-for-php.md",
-    "topic-notes/php/starr-framework.md",
-    "topic-notes/php/smart-objectives.md",
-    "topic-notes/php/script.md",
-    "topic-notes/php/mece.md",
-    "topic-notes/php/interviewing.md",
-    "topic-notes/php/eisenhower's-matrix.md",
-    "mitsui/why-i-want-to-work-at-mitsui.md",
-    "mitsui/mitsui-research.md",
-    "mitsui/mitsui-questions.md",
-    "mitsui/mitsui-interview-prep.md",
-    "mitsui/how-mitsui-works.md",
-    "mitsui/commodities-research.md",
-    "images/joins_cheatsheet.pdf",
-    "images/Pasted image 20250107115732.png",
-    "images/Pasted image 20250107115845.png",
-    "images/Pasted image 20250107115901.png",
-    "images/Pasted image 20250107115916.png",
-    "images/Pasted image 20250107115953.png",
-    "general/resources.md",
-    "Untitled.canvas",
-    "cloud-mindmap-images/packet-switching-example.png",
-    "cloud-mindmap-images",
-    "Pasted image 20250301163440.png",
-    "Pasted image 20250302100410.png",
-    "daily-and-weekly-things/to-do.md",
-    "daily-and-weekly-things/reminders-and-comments.md",
-    "daily-and-weekly-things/questions.md",
-    "daily-and-weekly-things/kick-off-notes.md",
-    "Untitled 1.canvas",
-    "images/Pasted image 20250205065053.png",
-    "images/Pasted image 20250205064643.png",
-    "mitsui",
-    "problem-summaries/tuesday",
-    "topic-notes/software-engineering/networking",
-    "problem-summaries/monday",
-    "problem-summaries",
-    "daily-and-weekly-things/objectives",
-    "general",
-    "topic-notes/software-engineering"
+    "cloud_3.canvas",
+    "cloud_3.canvas~",
+    "cloud_2.canvas",
+    "cloud_2.canvas~",
+    "cloud.canvas~"
   ]
 }
